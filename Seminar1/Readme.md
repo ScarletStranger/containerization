@@ -7,18 +7,20 @@
 ### **Домашнее задание**
 
 Задание:
-1) Подготовка к использованию chroot
-2) Изменение корневой папки
-3) Добавление дополнительных файлов
-4) Создание Пространства Имен для Сети
-5) Изоляция по Процессам и Файловой Системе
+1) Изменение корневой папки
+2) Добавление дополнительных файлов
+3) Создание Пространства Имен для Сети
+4) Изоляция по Процессам и Файловой Системе
 
 
 
 
 **Выполнение**
 
-![ChrootPreparation](https://github.com/ScarletStranger/containerization/blob/main/Seminar1/image.png)
+![ChrootPreparation](https://github.com/ScarletStranger/containerization/blob/main/Seminar1/1.png)
+![FileAddition](https://github.com/ScarletStranger/containerization/blob/main/Seminar1/2.png)
+![Ipnets](https://github.com/ScarletStranger/containerization/blob/main/Seminar1/3.png)
+![FileSystemIsolation](https://github.com/ScarletStranger/containerization/blob/main/Seminar1/4.png)
 
 
 
