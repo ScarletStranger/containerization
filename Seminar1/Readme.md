@@ -18,7 +18,7 @@
 
 **Выполнение**
 
-
+![ChrootPreparation](https://github.com/ScarletStranger/containerization/blob/main/Seminar1/image.png)
 
 
 
