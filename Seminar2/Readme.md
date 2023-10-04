@@ -53,13 +53,20 @@ free -m -- проверяем пямаять
 
 **Выполнение**
 
-![ChrootPreparation](https://github.com/ScarletStranger/containerization/blob/main/Seminar1/1.png)
+![ChrootPreparation](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/1.png)
 
-![FileAddition](https://github.com/ScarletStranger/containerization/blob/main/Seminar1/2.png)
+![FileAddition](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/1.png)
 
-![Ipnets](https://github.com/ScarletStranger/containerization/blob/main/Seminar1/3.png)
+![Ipnets](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/1.png)
 
-![FileSystemIsolation](https://github.com/ScarletStranger/containerization/blob/main/Seminar1/4.png)
+![FileSystemIsolation](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/1.png)
 
+![ChrootPreparation](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/1.png)
+
+![FileAddition](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/1.png)
+
+![Ipnets](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/1.png)
+
+![FileSystemIsolation](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/1.png)
 
 *Подготовил студент Geek Brains* [**`Леденев Максим`**](https://github.com/ScarletStranger), containerization
