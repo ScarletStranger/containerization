@@ -55,18 +55,18 @@ free -m -- проверяем пямаять
 
 ![ChrootPreparation](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/1.png)
 
-![FileAddition](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/1.png)
+![FileAddition](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/2.png)
 
-![Ipnets](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/1.png)
+![Ipnets](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/3.png)
 
-![FileSystemIsolation](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/1.png)
+![FileSystemIsolation](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/4.png)
 
-![ChrootPreparation](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/1.png)
+![ChrootPreparation](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/5.png)
 
-![FileAddition](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/1.png)
+![FileAddition](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/6.png)
 
-![Ipnets](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/1.png)
+![Ipnets](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/7.png)
 
-![FileSystemIsolation](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/1.png)
+![FileSystemIsolation](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/8.png)
 
 *Подготовил студент Geek Brains* [**`Леденев Максим`**](https://github.com/ScarletStranger), containerization
