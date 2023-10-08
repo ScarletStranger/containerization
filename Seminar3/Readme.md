@@ -223,20 +223,22 @@ __
 
 **Выполнение**
 
-![LXC setup](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/1.png)
+![LXC setup](https://github.com/ScarletStranger/containerization/blob/main/Seminar3/1.png)
 
-![LXC setup](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/2.png)
+![LXC setup](https://github.com/ScarletStranger/containerization/blob/main/Seminar3/2.png)
 
-![LXC launch](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/3.png)
+![LXC launch](https://github.com/ScarletStranger/containerization/blob/main/Seminar3/3.png)
 
-![LXC launch](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/4.png)
+![LXC launch](https://github.com/ScarletStranger/containerization/blob/main/Seminar3/4.png)
 
-![MemoryLimit](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/5.png)
+![MemoryLimit](https://github.com/ScarletStranger/containerization/blob/main/Seminar3/5.png)
 
-![MemoryLimit](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/6.png)
+![MemoryLimit](https://github.com/ScarletStranger/containerization/blob/main/Seminar3/6.png)
 
-![MemoryLimit](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/7.png)
+![MemoryLimit](https://github.com/ScarletStranger/containerization/blob/main/Seminar3/7.png)
 
-![Final](https://github.com/ScarletStranger/containerization/blob/main/Seminar2/8.png)
+![Final](https://github.com/ScarletStranger/containerization/blob/main/Seminar3/8.png)
+
+![Final](https://github.com/ScarletStranger/containerization/blob/main/Seminar3/9.png)
 
 *Подготовил студент Geek Brains* [**`Леденев Максим`**](https://github.com/ScarletStranger), containerization
