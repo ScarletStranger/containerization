@@ -18,48 +18,51 @@
     6  apt-cache policy docker-ce
     7  sudo apt install docker-ce
     8  sudo systemctl status docker
-    9  docker run hello-world
-   10  docker run --name some-mysql -e MYSQL_ROOT_PASSWORD=test -d mysql:8.0.31
-   11  docker run --name myphp -d --link some-mysql:db -p 8081:80 phpmyadmin/phpmyadmin
-   12  docker ps -a
-   13  ip a
+    9  sudo usermod -aG docker ${user}
+   10  sudo usermod -aG docker ${root}
+   11  docker run hello-world
+   12  docker run --name some-mysql -e MYSQL_ROOT_PASSWORD=test -d mysql:8.0.31
+   13  docker run --name myphp -d --link some-mysql:db -p 8081:80 phpmyadmin/phpmyadmin
    14  docker ps -a
-   15  docker systemctl
-   16  mkdir testfolder/
-   17  ll
-   18  cd testfolder
-   19  vim docker-compose.yml
-   20  docker compose up -d
+   15  ip a
+   16  docker ps -a
+   17  docker systemctl
+   18  mkdir testfolder/
+   19  ll
+   20  cd testfolder
    21  vim docker-compose.yml
-   22  docker container ls
-   23  docker stop 6dfbab24dad0
-   24  docker compose up -d
-   25  docker ps -a
-   26  vim docker-compose.yml
-   27  docker stop ecec26c833b7
-   28  docker stop b75b0ede16ce
-   29  docker ps -a
-   30  history
+   22  docker compose up -d
+   23  vim docker-compose.yml
+   24  docker container ls
+   25  docker stop 6dfbab24dad0
+   26  docker compose up -d
+   27  docker ps -a
+   28  vim docker-compose.yml
+   29  docker stop ecec26c833b7
+   30  docker stop b75b0ede16ce
+   31  docker ps -a
+   32  history
+
 
 
 **Выполнение**
 
-![LXC setup](https://github.com/ScarletStranger/containerization/blob/main/Seminar3/Pics/1.png)
+![LXC setup](https://github.com/ScarletStranger/containerization/blob/main/Seminar5/Pics/1.png)
 
-![LXC setup](https://github.com/ScarletStranger/containerization/blob/main/Seminar3/Pics/2.png)
+![LXC setup](https://github.com/ScarletStranger/containerization/blob/main/Seminar5/Pics/2.png)
 
-![LXC launch](https://github.com/ScarletStranger/containerization/blob/main/Seminar3/Pics/3.png)
+![LXC launch](https://github.com/ScarletStranger/containerization/blob/main/Seminar5/Pics/3.png)
 
-![LXC launch](https://github.com/ScarletStranger/containerization/blob/main/Seminar3/Pics/4.png)
+![LXC launch](https://github.com/ScarletStranger/containerization/blob/main/Seminar5/Pics/4.png)
 
-![LXC setup](https://github.com/ScarletStranger/containerization/blob/main/Seminar3/Pics/5.png)
+![LXC setup](https://github.com/ScarletStranger/containerization/blob/main/Seminar5/Pics/5.png)
 
-![LXC setup](https://github.com/ScarletStranger/containerization/blob/main/Seminar3/Pics/6.png)
+![LXC setup](https://github.com/ScarletStranger/containerization/blob/main/Seminar5/Pics/6.png)
 
-![LXC launch](https://github.com/ScarletStranger/containerization/blob/main/Seminar3/Pics/7.png)
+![LXC launch](https://github.com/ScarletStranger/containerization/blob/main/Seminar5/Pics/7.png)
 
-![LXC launch](https://github.com/ScarletStranger/containerization/blob/main/Seminar3/Pics/8.png)
+![LXC launch](https://github.com/ScarletStranger/containerization/blob/main/Seminar5/Pics/8.png)
 
-![LXC launch](https://github.com/ScarletStranger/containerization/blob/main/Seminar3/Pics/9.png)
+![LXC launch](https://github.com/ScarletStranger/containerization/blob/main/Seminar5/Pics/9.png)
 
 *Подготовил студент Geek Brains* [**`Леденев Максим`**](https://github.com/ScarletStranger), containerization
