@@ -10,6 +10,8 @@
 
 **История команд**
 
+
+
     1  apt update
     2  sudo apt install apt-transport-https ca-certificates curl software-properties-common
     3  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
